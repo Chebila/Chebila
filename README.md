@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Douae Chebila! 👋
 
-<!--
-**Chebila/Chebila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Engineering student currently on a journey to explore the fascinating world of code. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Languages:** c, c++, JavaScript
+- 🌐 **Web:** HTML, CSS, React
+- 🚀 **Frameworks:** Bootstrap, Tailwind CSS
+- 🛢️ **Databases:** MySQL
+- 🔧 **Tools:** Git, VSCode, Visual Studio 2022, IntelliJ
+
+## 🌱 Currently Learning
+
+I believe in continuous learning and improvement. Currently, I'm focused on mastering Java.
+
+## 🚀 Projects
+
+- [Web Project]: payroll management.
+
+Explore my repositories to see more of my work!
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Douae CHEBILA](https://www.linkedin.com/in/douae-chebila-0556ab22b/)
+
+Feel free to connect with me and explore the exciting possibilities that coding offers! ✨
+
+## 🤝 Open to Collaboration
+
+I'm always open to collaborating on interesting projects. If you have an idea or want to work together, let's connect!
