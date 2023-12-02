@@ -4,8 +4,8 @@ I'm a passionate Software Engineering student currently on a journey to explore 
 
 ## 🔧 Tech Stack
 
-- 💻 **Languages:** c, c++, JavaScript
-- 🌐 **Web:** HTML, CSS, React
+- 💻 **Languages:** c, c++, Java, Python
+- 🌐 **Web:** HTML, CSS, PHP, XML, JavaScript
 - 🚀 **Frameworks:** Bootstrap, Tailwind CSS
 - 🛢️ **Databases:** MySQL
 - 🔧 **Tools:** Git, VSCode, Visual Studio 2022, IntelliJ
@@ -17,6 +17,8 @@ I believe in continuous learning and improvement. Currently, I'm focused on mast
 ## 🚀 Projects
 
 - [Web Project]: payroll management.
+- [Project in C]: Student DataBase.
+- [Project in C and Gtk]: Checkers Game.
 
 Explore my repositories to see more of my work!
 
