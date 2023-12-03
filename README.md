@@ -4,7 +4,7 @@ I'm a passionate Software Engineering student currently on a journey to explore 
 
 ## 🔧 Tech Stack
 
-- 💻 **Languages:** c, c++, Java, Python
+- 💻 **Languages:** c, c++, Java, Python, Prolog
 - 🌐 **Web:** HTML, CSS, PHP, XML, JavaScript
 - 🚀 **Frameworks:** Bootstrap, Tailwind CSS
 - 🛢️ **Databases:** MySQL
